@@ -21,7 +21,7 @@ import {
   lrtjak,
   unair,
   nextjs,
-  jobit,
+  unair23,
   tripguide,
   threejs,
 } from "../assets";
@@ -61,19 +61,19 @@ const services = [
 ];
 
 const technologies = [
-  { name: "HTML 5", icon: html, },
-  { name: "CSS 3", icon: css, },
-  { name: "JavaScript", icon: javascript, },
-  { name: "React JS", icon: reactjs, },
-  { name: "Next JS", icon: nextjs, },
-  { name: "Tailwind CSS", icon: tailwind, },
-  { name: "Node JS", icon: nodejs, },
-  { name: "MongoDB", icon: mongodb, },
-  { name: "Three JS", icon: threejs, },
-  { name: "Flutter", icon: flutter, },
-  { name: "SQL", icon: sql, },
-  { name: "git", icon: git, },
-  { name: "PHP", icon: php, },
+  { name: "HTML 5", icon: html },
+  { name: "CSS 3", icon: css },
+  { name: "JavaScript", icon: javascript },
+  { name: "React JS", icon: reactjs },
+  { name: "Next JS", icon: nextjs },
+  { name: "Tailwind CSS", icon: tailwind },
+  { name: "Node JS", icon: nodejs },
+  { name: "MongoDB", icon: mongodb },
+  { name: "Three JS", icon: threejs },
+  { name: "Flutter", icon: flutter },
+  { name: "SQL", icon: sql },
+  { name: "git", icon: git },
+  { name: "PHP", icon: php },
 ];
 
 const experiences = [
@@ -97,7 +97,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "June 2021 - Aug 2021",
     points: [
-     "Developing and maintaining SERP(Search Engine Result Page) in order to make the website rank #1 in the search engine result pages.",
+      "Developing and maintaining SERP(Search Engine Result Page) in order to make the website rank #1 in the search engine result pages.",
       "Collaborating with others co-worker in order to gaining the best value for future.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -122,9 +122,7 @@ const experiences = [
     icon: unair,
     iconBg: "#E6DEDD",
     date: "Aug 2023 - Present",
-    points: [
-      "Becoming colleger in Universitas Airlangga",
-    ],
+    points: ["Becoming colleger in Universitas Airlangga"],
   },
 ];
 
@@ -166,7 +164,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name : "SQL",
+        name: "SQL",
         color: "blue-text-gradient",
       },
       {
@@ -178,25 +176,24 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+    name: "Angkatan 2023 Universitas Airlangga",
+    description: "Journaling Website blog for all of my college friend",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "nextjs",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
-        color: "pink-text-gradient",
+        name: "tailwindcss",
+        color: "blue-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: unair23,
+    source_code_link: "https://github.com/Arya-f4/angkatan-23",
   },
   {
     name: "Trip Guide",

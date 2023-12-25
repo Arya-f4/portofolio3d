@@ -25,10 +25,9 @@ import lrtams from "./company/lrtams.png";
 import jakpos from "./company/jakpos.png";
 import lrtjak from "./lrtjak.png";
 import unair from "./company/unair.png";
-import jobit from "./jobit.png";
+import unair23 from "./unair23.png";
 import tripguide from "./tripguide.png";
 import nextjs from "./tech/nextjs.svg";
-
 
 export {
   logo,
@@ -58,6 +57,6 @@ export {
   lrtams,
   lrtjak,
   unair,
-  jobit,
+  unair23,
   tripguide,
 };
