@@ -21,7 +21,7 @@ import php from "./tech/PHP.png";
 import sql from "./tech/sql.svg";
 import meta from "./company/meta.png";
 import magang from "./company/magang.png";
-import lrtams from "./company/lrtams.png";
+import linkra from "./company/linkra.png";
 import jakpos from "./company/jakpos.png";
 import lrtjak from "./lrtjak.png";
 import unair from "./company/unair.png";
@@ -54,7 +54,7 @@ export {
   php,
   magang,
   jakpos,
-  lrtams,
+  linkra,
   lrtjak,
   unair,
   unair23,
