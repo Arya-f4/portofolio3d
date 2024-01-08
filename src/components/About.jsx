@@ -49,7 +49,7 @@ const About = () => {
       >
         I'm a s̶k̶i̶l̶l̶e̶d̶ Newbie software developer with experience in dart,
         JavaScript, and expertise in frameworks like Flutter, React, Node.js, and
-        Three.js.I'm super interested with Ethical Hacking, bug hunting,And web security. I'm a "trying to quick" learner and collaborate closely with clients to
+        Three.js .I'm super interested with Ethical Hacking, bug hunting, And web security. I'm a "trying to quick" learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real world problems. Let's work together to bring your ideas to life, And Save The World!
       </motion.p>
