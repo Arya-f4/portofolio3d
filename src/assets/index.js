@@ -28,8 +28,11 @@ import unair from "./company/unair.png";
 import unair23 from "./unair23.png";
 import tripguide from "./tripguide.png";
 import nextjs from "./tech/nextjs.svg";
-
+import cyber from "./vision/cyber.jpg";
+import consume from "./consume.png";
 export {
+  consume,
+  cyber,
   logo,
   backend,
   creator,

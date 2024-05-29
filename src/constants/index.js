@@ -22,6 +22,7 @@ import {
   unair,
   nextjs,
   unair23,
+  consume,
   tripguide,
   threejs,
 } from "../assets";
@@ -75,6 +76,12 @@ const technologies = [
   { name: "git", icon: git },
   { name: "PHP", icon: php },
 ];
+const Vision = [
+  {
+    title: "Perfect Developer",
+
+  }
+]
 
 const experiences = [
   {
@@ -86,7 +93,7 @@ const experiences = [
     points: [
       "Developing and maintaining SERP(Search Engine Result Page) in order to make the website rank #1 in the search engine result pages.",
       "Collaborating with others co-worker in order to gaining the best value for future.",
-   ],
+    ],
   },
   {
     title: "Data Entry & SEO Analyzer",
@@ -98,7 +105,7 @@ const experiences = [
       "Working while studying in highschool for gaining money and experience.",
       "Collaborating with others co-worker in order to gaining the best value for future.",
       "Developing and maintaining SERP(Search Engine Result Page) in order to make the website rank #1 in the search engine result pages.",
-      ],
+    ],
   },
   {
     title: "Intern Data Entry & SEO Analyzer",
@@ -131,6 +138,30 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Aug 2023 - Present",
     points: ["Becoming colleger in Universitas Airlangga"],
+  },
+  {
+    title: "Intern Cyber Security",
+    company_name: "Direktorat Sistem Informasi Universitas Airlangga",
+    icon: unair,
+    iconBg: "#E6DEDD",
+    date: "Jan 2024 - Present",
+    points: ["Becoming Intern Cyber Security in Universitas Airlangga at second semester. "],
+  },
+  {
+    title: "Indie Developer",
+    company_name: "Myself",
+    icon: backend,
+    iconBg: "#E6DEDD",
+    date: "Jan 2022 - Present",
+    points: ["I consider myself as Indie developer. "],
+  }
+  , {
+    title: "Will be Perfect Developer",
+    company_name: "Myself in Future",
+    icon: mobile,
+    iconBg: "#E6DEDD",
+    date: "2025 - Future",
+    points: ["Remaster Machine Language, and modern language. "],
   },
 ];
 
@@ -179,6 +210,26 @@ const projects = [
     ],
     image: unair23,
     source_code_link: "https://github.com/Arya-f4/angkatan-23",
+  },
+  {
+    name: "Consume Care",
+    description: "providing a convenient and efficient solution for consume needs.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nextjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: consume,
+    source_code_link: "https://github.com/Arya-f4/ilmupadi",
   },
 
 ];
