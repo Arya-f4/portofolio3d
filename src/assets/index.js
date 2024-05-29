@@ -9,17 +9,17 @@ import close from "./close.svg";
 import css from "./tech/css.png";
 import flutter from "./tech/flutter.png";
 import git from "./tech/git.png";
+import firebase from "./tech/firebase.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
+import laravel from "./tech/laravel.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 import php from "./tech/PHP.png";
-import sql from "./tech/sql.svg";
-import meta from "./company/meta.png";
 import magang from "./company/magang.png";
 import linkra from "./company/linkra.png";
 import jakpos from "./company/jakpos.png";
@@ -41,10 +41,8 @@ export {
   github,
   menu,
   close,
-  css,
   flutter,
   git,
-  html,
   javascript,
   mongodb,
   nodejs,
@@ -53,13 +51,14 @@ export {
   tailwind,
   threejs,
   nextjs,
-  sql,
   php,
   magang,
   jakpos,
   linkra,
   lrtjak,
   unair,
+  firebase,
   unair23,
   tripguide,
+  laravel
 };

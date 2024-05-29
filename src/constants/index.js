@@ -4,10 +4,7 @@ import {
   creator,
   web,
   javascript,
-  html,
-  css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
@@ -15,7 +12,6 @@ import {
   php,
   flutter,
   magang,
-  sql,
   jakpos,
   linkra,
   lrtjak,
@@ -23,8 +19,9 @@ import {
   nextjs,
   unair23,
   consume,
-  tripguide,
   threejs,
+  laravel,
+  firebase,
 } from "../assets";
 
 export const navLinks = [
@@ -62,8 +59,6 @@ const services = [
 ];
 
 const technologies = [
-  { name: "HTML 5", icon: html },
-  { name: "CSS 3", icon: css },
   { name: "JavaScript", icon: javascript },
   { name: "React JS", icon: reactjs },
   { name: "Next JS", icon: nextjs },
@@ -72,9 +67,10 @@ const technologies = [
   { name: "MongoDB", icon: mongodb },
   { name: "Three JS", icon: threejs },
   { name: "Flutter", icon: flutter },
-  { name: "SQL", icon: sql },
   { name: "git", icon: git },
   { name: "PHP", icon: php },
+  { name: "Laravel", icon: laravel },
+  { name: "Firebase", icon: firebase },
 ];
 const Vision = [
   {
